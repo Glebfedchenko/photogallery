@@ -1,0 +1,15 @@
+@import './vars.scss';
+
+body {
+  background: $offwhite;
+}
+.postInfo{
+    padding: 15px;
+    border: 1px solid $blue;
+}
+.btn{
+    margin: 3px;
+}
+#photocontainer{
+    height: 350px;
+}
